@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AdministratorMenu()
+comment1.params=
+comment1.target=CourseAdmin.Command\ promptMainMenu()
+comment2.params=text
+comment2.target=CourseAdmin.Command\ getCommand(java.lang.String)
+comment2.text=\r\n\ Returns\ the\ selected\ menu\ number\ by\ the\ administrator\r\n\ @param\ text\ show\ text\ to\ the\ administrator\ and\ prompt\ a\ menu\ number\r\n\ @return\ a\ menu\ number\r\n
+comment3.params=text
+comment3.target=java.lang.String\ getString(java.lang.String)
+comment3.text=\r\n\ This\ function\ will\ get\ a\ string\ value\ from\ the\ administrator\r\n\ @param\ text\ the\ text\ to\ be\ shown\ to\ the\ administrator\r\n\ @return\ the\ input\ string\ received\ from\ the\ administrator\r\n
+comment4.params=text
+comment4.target=int\ getInt(java.lang.String)
+comment4.text=\r\n\ This\ function\ will\ get\ an\ int\ value\ from\ the\ administrator\r\n\ @param\ text\ the\ text\ to\ be\ shown\ to\ the\ administrator\r\n\ @return\ the\ input\ int\ value\ received\ from\ the\ administrator\r\n
+numComments=5

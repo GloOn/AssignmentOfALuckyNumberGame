@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LuckyNumberGenerator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LuckyNumberGenerator\r\n
+comment1.params=
+comment1.target=int\ getLuckyNumber()
+comment1.text=\r\n\ get\ a\ random\ lucky\ number.\r\n
+comment2.params=newLuckyNumber
+comment2.target=void\ setLuckyNumber(int)
+comment2.text=\r\n\ set\ a\ lucky\ number.\r\n
+numComments=3

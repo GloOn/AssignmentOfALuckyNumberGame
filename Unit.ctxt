@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Unit()
+comment0.text=\r\n\ Default\ constructor\r\n
+comment1.params=code\ title
+comment1.target=Unit(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ This\ is\ a\ constructor\ that\ creates\ a\ Unit\ object\ and\ initializes\ values\ by\ passing\ the\ parameters\r\n
+comment2.params=
+comment2.target=java.util.Collection\ getAllStudents()
+comment2.text=\r\n\ This\ method\ returns\ all\ student\ objects\ enrolled\ in\ the\ unit.\r\n\ @return\r\n
+comment3.params=title
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=aStudent
+comment4.target=void\ addStudent(Student)
+comment4.text=\r\n\ Add\ a\ new\ student\ into\ "students".\r\n\ @param\ aStudent\r\n
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment6.params=
+comment6.target=java.lang.String\ getCode()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Validation()
+comment0.text=\r\n\ Create\ a\ new\ instance\ of\ AdministratorMenu.\r\n
+comment1.params=status
+comment1.target=boolean\ validateStudentCourseStatus(java.lang.String)
+comment1.text=\r\n\ Check\ whether\ the\ student\ status\ is\ A,\ C,\ or\ D.\ If\ the\ status\ doesn't\ belong\ to\ one\ of\ those\ status,\ return\ false,\r\n\ otherwise,\ return\ true.\r\n\ @param\ status\ student\ status\r\n\ @return\ if\ the\ status\ is\ valid,\ return\ true,\ and\ otherwise,\ return\ false.\r\n
+comment2.params=unitCode
+comment2.target=boolean\ validateUnitCode(java.lang.String)
+comment2.text=\r\n\ Check\ whether\ the\ unit\ code\ has\ a\ valid\ form\ or\ not.\ If\ valid,\ return\ true,\ and\ otherwise,\ return\ false.\r\n\ @param\ unitCode\ unit\ code\r\n\ @return\ if\ the\ code\ is\ valid,\ return\ true,\ and\ otherwise,\ return\ false.\r\n
+comment3.params=courseCode
+comment3.target=boolean\ validateCourseCode(java.lang.String)
+comment3.text=\r\n\ Check\ whether\ the\ course\ code\ has\ a\ valid\ form\ or\ not.\ If\ valid,\ return\ true,\ and\ otherwise,\ return\ false.\r\n\ @param\ courseCode\ course\ code\r\n\ @return\ if\ the\ code\ is\ valid,\ return\ true,\ and\ otherwise,\ return\ false.\r\n
+comment4.params=courseType
+comment4.target=boolean\ validateCourseType(int)
+comment4.text=\r\n\ Check\ whether\ the\ course\ type\ is\ Undergraduate\ or\ Postgraduate.\r\n\ @param\ courseType\ course\ code\r\n\ @return\ if\ the\ course\ type's\ index\ is\ in\ [0,1],\ return\ true.\ Otherwise\ return\ false.\r\n
+comment5.params=campusType
+comment5.target=boolean\ validateCampus(int)
+comment5.text=\r\n\ Check\ whether\ the\ campus\ type\ is\ Clayton,\ Caulfield,\ Berwick,\ Gippsland,\ SouthAfrica,\ or\ Malaysia.\r\n\ @param\ campusType\ campus\ code\r\n\ @return\ if\ the\ campus\ type's\ index\ is\ in\ [0,5],\ return\ true.\ Otherwise\ return\ false.\r\n
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=name\ campusName
+comment0.target=Student(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ This\ is\ a\ constructor\ that\ creates\ a\ Student\ object\ and\ initializes\ values\ by\ passing\ the\ parameters\r\n\ Note\ that\ a\ studdent\ is\ automatcally\ given\ by\ the\ system\ when\ creating\ a\ student.\ This\ is\ done\ by\ createId()\ method.\r\n\ @param\ name\ The\ given\ student\ name\r\n
+comment1.params=
+comment1.target=java.lang.String\ createId()
+comment1.text=\r\n\ Student\ Id\ number\ is\ an\ 8\ digit\ unique\ identity\ code\ for\ each\ student\ containing\r\n\ a\ check\ digit.\ A\ check\ digit\ is\ the\ 8th\ digit,\ which\ is\ the\ sum\ of\ the\ first\ 7\r\n\ digits\ divided\ by\ 10.\r\n\ @return\ the\ 8-digit\ student\ id\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=id
+comment3.target=void\ setId(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getId()
+comment6.params=
+comment6.target=java.lang.String\ getCampus()
+comment7.params=campusName
+comment7.target=void\ setCampus(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
